@@ -1,0 +1,8 @@
+a = int(input())
+print(a*2)
+print()
+print(a*10)
+print()
+print(a//2)
+print()
+print('%.3f' % (a/2))
