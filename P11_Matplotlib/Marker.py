@@ -17,4 +17,4 @@ plt.show()
 # plt.scatter(x,y) thay vi plot de no hien thi rai rac diem
 # plt.bar(x,y)
 # plt.barh(x,y,width = .8) nam ngang
-# plt.pie(y,label = l)
+# plt.pie(y,labels = l)

@@ -8,3 +8,4 @@ y3 = -3 / 2 * x * x + 5
 plt.plot(x, y3)
 plt.title("TQD")
 plt.show()
+

@@ -6,6 +6,7 @@ if __name__ == "__main__":
 
     d = fr.read()
     for i in d:
+        print(i)
         fw.write(i)
 
     fr.close()
